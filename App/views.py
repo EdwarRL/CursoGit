@@ -43,7 +43,8 @@ from .Forms import productform,RawProductForm
 #         'form':form
 #     }
 #     return render(request, 'Product/create.html',context)
-    
+
+#Prueba git  
 
 def product_detail_view(request,my_id):
     obj = product.objects.get(id=my_id)
