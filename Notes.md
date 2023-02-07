@@ -54,7 +54,14 @@
 ## Editar desde GitHub, crear teags, clonación en reporsitorio local
 
 - Para editar en githut, se modifica con la opción del lápiz, se de da commit changes y despues en el local se da **git pull** para halar la información desde el repositorio remoto.
+- Para crear una tag se utiliza el comando **git tag 06-02-2023 -m "Version 1 del proyecto"** y el git lo almacena, para subirlo al repositoria se utiliza el comando **git push --tags**
+- Para clonar un proyecto se utiliza el comando **git clone "se pega la url que se saca del github boton <>Code-->Clone**"
 
+## Ramas o branches
+
+- Para crear una rama se utiliza el comando **git branch Rama1**
+- Para ver las ramas del proyecto y en que rama me encuentro, utilizo el comando **git branch**
+- Para moverse a otra rama se utiliza el comando **git checkout Rama1**
 
 
 
