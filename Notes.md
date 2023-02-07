@@ -62,6 +62,7 @@
 - Para crear una rama se utiliza el comando **git branch Rama1**
 - Para ver las ramas del proyecto y en que rama me encuentro, utilizo el comando **git branch**
 - Para moverse a otra rama se utiliza el comando **git checkout Rama1**
+- Para hacer le mmerge se ubica en la rama master y se da el comando **git merge Rama1** si no hay conflictos se aplica, sino debe solucionar los conflictos y luego hacer el commit.
 
 
 
