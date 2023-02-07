@@ -53,6 +53,8 @@
 
 ## Editar desde GitHub, crear teags, clonación en reporsitorio local
 
+- Para editar en githut, se modifica con la opción del lápiz, se de da commit changes y despues en el local se da **git pull** para halar la información desde el repositorio remoto.
+
 
 
 
